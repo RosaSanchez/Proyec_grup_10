@@ -32,7 +32,7 @@
 		cout<<"                  |-------------------------------------|"<<endl;
 		cout<<endl;
        system("pause");
-		 system("cls");
+		 system("cls");    // rosiita   ss s s  s s 
 
 
 
