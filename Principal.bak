@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<iostream.h>// librerias
+#include<conio.h>
+#include<string.h>
+#include<fstream.h>
+#include<ctype.h>
+
